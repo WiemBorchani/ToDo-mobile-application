@@ -2,7 +2,8 @@
 
 <img src="https://drissas.com/wp-content/uploads/2019/11/langage-application-4-1024x450.jpg" width="1000px"> 
 
-This is my first Flutter project as i participated to the challenge #30DaysOfFlutter .Essentially, it is a simple note-taking platform, where you can write all the important to-dos edit and delete  then  tick off the tasks after they're done.
+👉 This is my first Flutter project as i participated to the challenge #30DaysOfFlutter .
+Essentially, it is a simple note-taking platform, where you can write all the important to-dos edit and delete  then  tick off the tasks after they're done.
 
 # 🖼Screenshots:
 
